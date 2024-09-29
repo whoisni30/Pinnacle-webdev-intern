@@ -36,7 +36,7 @@ This project is a fully functional personal blog where users can write, edit, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/whoisni30/pinnacle-webdev.git
+   git clone https://github.com/whoisni30/pinnacle-webdev-intern.git
    ```
 2. Navigate to the project directory:
    ```bash
